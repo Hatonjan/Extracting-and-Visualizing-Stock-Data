@@ -31,7 +31,7 @@ pip install requests pandas yfinance beautifulsoup4 plotly
 ## How to Run
 1. Clone this repository to your local environment:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Hatonjan/Extracting-and-Visualizing-Stock-Data.git
    ```
 2. Navigate to the project directory:
    ```bash
