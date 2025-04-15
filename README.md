@@ -1,7 +1,7 @@
 # Extracting and Visualizing Stock Data
 
 ## Description
-This project demonstrates how to extract essential financial data from public datasets, clean and transform the data, and visualize it using interactive graphs. By combining data from Yahoo Finance and other sources, we create dual visualizations for historical share prices and revenues of selected companies.
+This project demonstrates how to extract essential financial data from public datasets, clean and transform the data, and visualize it using interactive graphs. By combining data from Yahoo Finance and other sources, I create dual visualizations for historical share prices and revenues of selected companies.
 
 ## Features
 - **Stock Price Data**: Downloaded directly from Yahoo Finance using the `yfinance` library.
